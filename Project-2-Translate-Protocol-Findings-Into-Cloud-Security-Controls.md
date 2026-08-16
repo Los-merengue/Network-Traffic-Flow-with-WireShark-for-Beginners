@@ -64,11 +64,11 @@ flowchart TD
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Sample Preview
 
 <p float="left">
-  <img src="screenshots/dns-traffic.png" width="45%" />
-  <img src="screenshots/tcp-handshake.png" width="45%" />
+  <img src="smaple-screenshots/dns-traffic.png" width="45%" />
+  <img src="sample-screenshots/tcp-handshake.png" width="45%" />
 </p>
 
 ## 💡 Project Value (For Interviews & Resume)
