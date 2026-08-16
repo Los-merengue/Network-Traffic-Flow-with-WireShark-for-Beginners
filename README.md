@@ -16,7 +16,7 @@ Learn how to capture and analyze HTTP traffic using Wireshark. This project cove
 ### 2. [Translating Analysis into Security Insights for Cloud](https://github.com/Los-merengue/Network-Traffic-Flow-with-WireShark-for-Beginners/blob/main/Project-2-Translate-Protocol-Findings-Into-Cloud-Security-Controls.md)
 Learn how to take what you have learned in the previous project by analysis into actionable insight for Cloud native controls like AWS VPC Flow logs, Security Groups etc.
 
-**Key Topics:** Traffic Analysis, Cloud Native controls Insights
+- **Key Topics:** Traffic Analysis, Cloud Native controls Insights
 - **Tools:** Wireshark, Web Browser, Cloud Service Providers
 
 ## Getting Started
