@@ -83,11 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👥 Authors
-
-- **🎓 Project Lead:** [Swasthi Kunder](https://github.com/swasthikunder)  
-- **🔧 Contributor:** [Sakshat S](https://github.com/Sakshats993)
-
-For collaboration or questions, feel free to reach out via GitHub.
-
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)]()
