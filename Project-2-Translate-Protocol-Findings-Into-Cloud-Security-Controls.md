@@ -67,7 +67,7 @@ flowchart TD
 ## 🖼️ Sample Preview
 
 <p float="left">
-  <img src="smaple-screenshots/dns-traffic.png" width="45%" />
+  <img src="sample-screenshots/dns-traffic.png" width="45%" />
   <img src="sample-screenshots/tcp-handshake.png" width="45%" />
 </p>
 
