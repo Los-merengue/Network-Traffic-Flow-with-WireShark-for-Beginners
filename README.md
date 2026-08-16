@@ -3,15 +3,21 @@ A lab exercise on Packet Traffic Exfiltration and Analysis using Packet Sniffer 
 
 ## Overview
 
-This repository contains five beginner-level projects focused on using Wireshark for network investigation and exfiltration of different protocols data. Each project provides hands-on experience with essential techniques for capturing and analyzing network traffic
+This repository contains two beginner-level projects focused on using Wireshark for network investigation and exfiltration of different protocols data. Each project provides hands-on experience with essential techniques for capturing and analyzing network traffic
 
 ## Projects
 
-### 1. [Analyzing HTTP Traffic with Wireshark](https://github.com/0xrajneesh/Wireshark-Projects-for-beginners/blob/main/Project-1-Analyzing-HTTP-Traffic-with-Wireshark.md)
+### 1. [Analyzing HTTP Traffic with Wireshark](https://github.com/Los-merengue/Network-Traffic-Flow-with-WireShark-for-Beginners/blob/main/Project-1-Analyzing-DNS-TCP-HTTP-TLS-Traffic-with-Wireshark.md)
 Learn how to capture and analyze HTTP traffic using Wireshark. This project covers setting up captures, filtering HTTP traffic, analyzing HTTP requests and responses, and extracting payload data.
 
 - **Key Topics:** HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
 - **Tools:** Wireshark, Web Browser
+
+### 2. [Translating Analysis into Security Insights for Cloud](https://github.com/Los-merengue/Network-Traffic-Flow-with-WireShark-for-Beginners/blob/main/Project-2-Translate-Protocol-Findings-Into-Cloud-Security-Controls.md)
+Learn how to take what you have learned in the previous project by analysis into actionable insight for Cloud native controls like AWS VPC Flow logs, Security Groups etc.
+
+**Key Topics:** Traffic Analysis, Cloud Native controls Insights
+- **Tools:** Wireshark, Web Browser, Cloud Introduction
 
 ## Getting Started
 
