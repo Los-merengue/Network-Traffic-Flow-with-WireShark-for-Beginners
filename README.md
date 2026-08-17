@@ -7,7 +7,7 @@ This repository contains two beginner-level projects focused on using Wireshark 
 
 ## Projects
 
-### 1. [Analyzing HTTP Traffic with Wireshark](https://github.com/Los-merengue/Network-Traffic-Flow-with-WireShark-for-Beginners/blob/main/Project-1-Analyzing-DNS-TCP-HTTP-TLS-Traffic-with-Wireshark.md)
+### 1. [Analyzing DNS, TCP, HTTP and TLS Traffic with Wireshark](https://github.com/Los-merengue/Network-Traffic-Flow-with-WireShark-for-Beginners/blob/main/Project-1-Analyzing-DNS-TCP-HTTP-TLS-Traffic-with-Wireshark.md)
 Learn how to capture and analyze HTTP traffic using Wireshark. This project covers setting up captures, filtering HTTP traffic, analyzing HTTP requests and responses, and extracting payload data.
 
 - **Key Topics:** HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
